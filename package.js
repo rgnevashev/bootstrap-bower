@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'mgcrea:angular-bootstrap',
+  name: 'rgnevashev:angular-bootstrap',
   version: '0.14.3',
   summary: 'Native AngularJS (Angular) directives for Bootstrap.',
   git: 'https://github.com/angular-ui/bootstrap',
