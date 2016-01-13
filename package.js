@@ -1,6 +1,6 @@
 Package.describe({
   name: 'rgnevashev:angular-bootstrap',
-  version: '0.14.3',
+  version: '1.0.3',
   summary: 'Native AngularJS (Angular) directives for Bootstrap.',
   git: 'https://github.com/angular-ui/bootstrap',
   documentation: 'README.md'
