@@ -11,4 +11,4 @@ Package.onUse(function(api) {
   api.addFiles([
     "./ui-bootstrap-tpls.js"
   ], 'client');
-}); 
+});
